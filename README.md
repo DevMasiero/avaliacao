@@ -39,8 +39,13 @@ A API estará disponível em: http://localhost:3000/api
 5️⃣ Rotas da API.
 
 Listar todos os Posts : http://localhost:3000/api/posts
+
 Listar todos os Comentarios : http://localhost:3000/api/comentarios
+
 Criar um Post : http://localhost:3000/api/posts
+
 Apagar um Post : http://localhost:3000/api/posts/{Id do Post}
+
 Adicionar comentario a um post: http://localhost:3000/api/posts/{Id do post}/comentarios
+
 Apagar um comentario : http://localhost:3000/api/comentarios/{Id do comentario}
