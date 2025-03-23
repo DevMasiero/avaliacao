@@ -23,9 +23,13 @@ npm install
 Crie um arquivo .env na raiz do projeto e adicione:
 
 DB_NAME=nome_do_banco
+
 DB_USER=usuario
+
 DB_PASSWORD=senha
+
 DB_HOST=localhost
+
 DB_PORT=1433
 
 4️⃣ Executar o Projeto.
